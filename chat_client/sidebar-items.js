@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Message"],"fn":["make_chat_client_with_secret"],"mod":["anthropic","openai","result"],"trait":["AnyChatClient"],"type":["AnyTextStream"]};

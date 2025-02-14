@@ -1,2 +1,0 @@
-# docs
-Rustdocs output
